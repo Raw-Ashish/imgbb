@@ -15,7 +15,7 @@ A simple yet powerful Python bot to upload multiple images to ImgBB hosting serv
 
 ### Local Setup
 ```bash
-git clone https://github.com/YOUR_USERNAME/imgbb-upload-bot.git
+git clone https://github.com/Raw-Ashish/imgbb.git
 cd imgbb-upload-bot
 pip install -r requirements.txt
-python imgbb_upload_bot.py
+python imgbb.py
